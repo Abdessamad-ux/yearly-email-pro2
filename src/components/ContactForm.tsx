@@ -163,7 +163,7 @@ const ContactForm = () => {
                 <div className="flex items-start gap-3">
                   <Phone className="h-5 w-5 text-primary mt-1" />
                   <div>
-                    <p className="font-medium">Phone</p>
+                    <p className="font-medium">WhatsApp</p>
                     <p className="text-sm text-muted-foreground">+31 637630250</p>
                   </div>
                 </div>
