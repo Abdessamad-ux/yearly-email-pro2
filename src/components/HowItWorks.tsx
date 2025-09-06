@@ -18,7 +18,7 @@ const HowItWorks = () => {
       icon: CreditCard,
       step: "3",
       title: "You Pay Once It's Ready",
-      description: "Only pay after your email is fully set up and working. Test it first, then pay - completely risk-free."
+      description: "Only pay after your email is fully set up and working - completely risk-free."
     }
   ];
 

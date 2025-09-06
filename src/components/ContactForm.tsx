@@ -109,7 +109,7 @@ const ContactForm = () => {
                       name="desiredEmails"
                       value={formData.desiredEmails}
                       onChange={handleInputChange}
-                      placeholder="Examples:&#10;- contact@yourbusiness.com&#10;- info@yourbusiness.com&#10;- sales@yourbusiness.com&#10;&#10;List all the emails you want (Up to 2 business emails for $34.99/year and up to 5 business emails for $79.99/year.)"
+                      placeholder="Examples:&#10;- contact@yourBusinessName.com&#10;- info@yourName.com&#10;- sales@yourbusiness.com&#10;&#10;List all the emails you want (Up to 2 business emails for $34.99/year and up to 5 business emails for $79.99/year.)"
                       required
                       className="mt-1 min-h-[120px]"
                     />
@@ -156,7 +156,7 @@ const ContactForm = () => {
                   <Mail className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-muted-foreground">support@businessemailsetup.com</p>
+                    <p className="text-sm text-muted-foreground">support@career-maestros.com</p>
                   </div>
                 </div>
                 
@@ -164,7 +164,7 @@ const ContactForm = () => {
                   <Phone className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-sm text-muted-foreground">Available upon request</p>
+                    <p className="text-sm text-muted-foreground">+31 637630250</p>
                   </div>
                 </div>
                 

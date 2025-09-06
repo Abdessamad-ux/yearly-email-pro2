@@ -87,7 +87,7 @@ const Pricing = () => {
                 className={`w-full ${plan.popular ? 'btn-hero' : 'btn-secondary'}`}
                 size="lg"
               >
-                Get Started
+                Fill the form below
               </Button>
             </div>
           ))}

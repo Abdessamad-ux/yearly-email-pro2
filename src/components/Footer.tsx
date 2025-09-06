@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 mb-4">
               <Mail className="h-8 w-8" />
-              <span className="text-2xl font-bold">Business Email Setup</span>
+              <span className="text-2xl font-bold">Business Email  | Career Maestros</span>
             </div>
             <p className="text-primary-foreground/80 mb-4 max-w-md">
               Professional business emails at unbeatable prices. Get contact@yourname.com, 
@@ -30,7 +30,7 @@ const Footer = () => {
             <h3 className="font-semibold mb-4">Service</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>Business Email Setup</li>
-              <li>Domain Registration Help</li>
+              <li>Domain Registration</li>
               <li>Email Client Configuration</li>
               <li>Technical Support</li>
             </ul>
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>&copy; 2024 Business Email Setup. All rights reserved. Professional business emails at unbeatable prices.</p>
+          <p>&copy; 2024 Career Maestros. All rights reserved. Professional business emails at unbeatable prices.</p>
         </div>
       </div>
     </footer>

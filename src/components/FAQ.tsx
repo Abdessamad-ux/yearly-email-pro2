@@ -9,7 +9,7 @@ const FAQ = () => {
   const faqs = [
     {
       question: "Do I need a domain?",
-      answer: "No, We will buy the domain for you to create business emails like contact@yourdomain.com. If you don't have one, we can help you register a domain name that fits your business perfectly."
+      answer: "No, We will buy the domain for you to create business emails like name@yourdomain.com. If you don't have Idea, we can help you register a domain name that fits your business perfectly."
     },
     {
       question: "Can I choose any prefix?",
@@ -33,7 +33,7 @@ const FAQ = () => {
     },
     {
       question: "Is this really cheaper than competitors?",
-      answer: "Yes! Google Workspace costs $72/year per email, Microsoft 365 costs $72/year per email. Our 2-email package is just $29.99/year total - saving you over 60%."
+      answer: "Yes! Google Workspace costs $72/year per email, Microsoft 365 costs $72/year per email. Our E-mail package is just $29.99/year total - saving you over 60%."
     },
     {
       question: "What's included with my business email?",
